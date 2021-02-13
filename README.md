@@ -30,6 +30,11 @@ Con el siguiente comando hará el server un redireccionamiento:
 ```
 ssh -N -L 8888:127.0.0.1:80 -i "pili.pem" bitnami@3.84.16.142
 ```
+![](imagenes/tunel.jpeg)
+
+RESULTADO: 
+
+![](imagenes/phpmyadmin.jpeg)
 
 Más información: 
 - https://docs.bitnami.com/aws/faq/get-started/access-phpmyadmin/
